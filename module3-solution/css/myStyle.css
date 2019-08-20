@@ -1,0 +1,35 @@
+/** {
+    box-sizing: border-box;
+}*/
+
+h2 {
+    color: blue;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
+
+.foodTitle {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    font-size: 1.2em;
+}
+
+.menuItems {
+    background-color: grey;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    font-family: Helvetica;
+    margin-left: 26px;
+    margin-right: 26px;
+
+}
+
+p {
+    padding: 0px 10px 5px;
+}
+
+
